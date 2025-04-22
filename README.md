@@ -1,5 +1,7 @@
 # Knapsack Problem
 
+Grupo: Mateus Mautone, Eduardo Klug, Renan Iomes, Leonardo Rocha, Mateus de Faria
+
 Este projeto implementa uma solução para o **Knapsack Problem** (Problema da Mochila) em Python. O objetivo é determinar o maior valor que pode ser carregado por uma mochila com capacidade limitada, dado um conjunto de itens com pesos e valores.
 
 A solução utiliza uma abordagem de programação dinâmica para encontrar o valor máximo de forma eficiente. O projeto também inclui testes unitários para validar a implementação.
